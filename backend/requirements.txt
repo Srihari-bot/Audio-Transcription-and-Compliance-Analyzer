@@ -1,0 +1,13 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+requests==2.31.0
+torch==2.2.0
+torchaudio==2.2.0
+transformers==4.35.2
+librosa==0.10.1
+numpy==1.26.4
+scipy==1.11.4
+soundfile==0.12.1
+pydantic==2.5.0
